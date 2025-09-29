@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data and outputs
+ai_json_output/
+chromadb/
+*.json
+*.csv
+
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# env
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
+
+# Files
+!ai_json_output/
+ai_json_output/*
+!ai_json_output/.keep
+!chromadb/
+chromadb/*
+!chromadb/.keep
+!data/human_coding/
+data/human_coding/*
+!data/human_coding/.keep
+
+
+
+
+

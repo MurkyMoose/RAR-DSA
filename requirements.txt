@@ -1,0 +1,16 @@
+nest_asyncio
+tqdm
+fuzzywuzzy
+python-Levenshtein
+pydantic
+matplotlib
+numpy
+scikit-learn
+jupyter
+asyncio
+typing-extensions
+enum34
+jsonschema
+openai
+dotenv
+chromadb==1.0.15
